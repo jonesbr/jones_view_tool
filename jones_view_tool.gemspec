@@ -6,11 +6,11 @@ require 'jones_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "jones_view_tool"
   spec.version       = JonesViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Brody Jones"]
   spec.email         = ["jones1337br@hotmail.com\n"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Various view specific methods for applications I use.}
+  spec.description   = %q{Provides generated HTML data for Rails applications.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
